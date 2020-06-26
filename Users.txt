@@ -1,0 +1,2 @@
+admin,admin@gmail.com,admin
+usra,usra@gmail.com,usra
